@@ -4,9 +4,9 @@
 <hr></hr>
 
 
-I’m @rirum but you can call me ✨ riru ✨  or cami (she/her)
-I’m interested in get better at programming and learn React. Also magical girls, screamo and embroidery.
-Currently studying on Driven Education to be a FullStack Dev :writing_hand:
+I’m @rirum but you can call me ✨ riru ✨  or cami (she/her)<br>
+I’m interested in get better at programming and learn React. Also :ribbon: magical girls, :microphone: screamo and :sewing_needle: embroidery.<br>
+Currently studying on Driven Education to be a FullStack Dev :writing_hand:<br>
 
 
 <!---
