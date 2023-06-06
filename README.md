@@ -1,12 +1,13 @@
 <h1 align="center"> 👋 Hello there!</h1> 
-<h4 align="center">(the angel from my nightmare)</h4></center>
 
 <hr></hr>
 
 
-I’m @rirum but you can call me ✨ riru ✨  or cami (she/her)<br>
-I’m interested in getting better at programming and learn React. Also :ribbon: magical girls, :microphone: screamo and :sewing_needle: embroidery.<br>
-Currently studying on Driven Education to be a FullStack Dev :writing_hand:<br>
+I’m @rirum but you can call me ✨ riru ✨ or cami (she/her)<br>
+
+I’m interested in web development, React, Javascript, Typescript and currently studying mobile development and web design, UX and UI. 
+I'm also interested in :ribbon: egl fashion, :microphone: screamo and :sewing_needle: embroidery.<br>
+You can also find me at https://www.linkedin.com/in/camille-miyashita/ or you can write me an e-mail (emailpracamille@gmail.com) :writing_hand:<br>
 
 
 <!---
